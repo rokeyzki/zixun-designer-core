@@ -1,0 +1,22 @@
+{
+  "name": "zixun-designer-core",
+  "version": "0.3.6",
+  "description": "ZiXun Designer Core Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rokeyzki/zixun-designer-core.git"
+  },
+  "keywords": [
+    "designer"
+  ],
+  "author": "lin ChuanQi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rokeyzki/zixun-designer-core/issues"
+  },
+  "homepage": "https://github.com/rokeyzki/zixun-designer-core#readme"
+}
