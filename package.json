@@ -1,6 +1,6 @@
 {
   "name": "zixun-designer-core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ZiXun Designer Core Component",
   "main": "index.js",
   "scripts": {
